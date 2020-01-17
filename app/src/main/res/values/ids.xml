@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="league_logo" type="id" />
+    <item name="league_name" type="id" />
+    <item name="team_logo" type="id" />
+    <item name="team_name" type="id" />
+    <item name="viewpager" type="id" />
+    <item name="event_home" type="id" />
+    <item name="score_home" type="id" />
+    <item name="logo_home" type="id" />
+    <item name="event_away" type="id" />
+    <item name="score_away" type="id" />
+    <item name="logo_away" type="id" />
+    <item name="event_time" type="id" />
+    <item name="event_date" type="id" />
+    <item name="event_location" type="id" />
+    <item name="list_match" type="id" />
+    <item name="empty_layout" type="id" />
+    <item name="progressbar" type="id" />
+
+    <item name="played" type="id" />
+    <item name="win" type="id" />
+    <item name="draw" type="id" />
+    <item name="lose" type="id" />
+    <item name="total" type="id" />
+    <item name="position" type="id" />
+
+
+</resources>

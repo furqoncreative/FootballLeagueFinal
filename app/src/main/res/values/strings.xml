@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Football League Final</string>
+    <string name="search">Search match</string>
+    <string name="favorite">Favorite</string>
+
+    <string-array name="league_id">
+        <item>4328</item>
+        <item>4334</item>
+        <item>4331</item>
+        <item>4332</item>
+        <item>4335</item>
+        <item>4346</item>
+        <item>4344</item>
+        <item>4356</item>
+        <item>4330</item>
+        <item>4396</item>
+    </string-array>
+
+    <string-array name="league_name">
+        <item>English Premier League</item>
+        <item>French Ligue 1</item>
+        <item>German Bundesliga</item>
+        <item>Italian Seri A</item>
+        <item>Spanish La Liga</item>
+        <item>American Mayor League</item>
+        <item>Portugeuse Premiera Liga</item>
+        <item>Australian A League</item>
+        <item>Scotish Premier League</item>
+        <item>English League 1</item>
+    </string-array>
+
+    <array name="league_logo">
+        <item>@drawable/ic_english_premier_league</item>
+        <item>@drawable/ic_french_ligue_1</item>
+        <item>@drawable/ic_german_bundesliga</item>
+        <item>@drawable/ic_italian_serie_a</item>
+        <item>@drawable/ic_spanish_la_liga</item>
+        <item>@drawable/ic_american_mayor_league</item>
+        <item>@drawable/ic_portugeuese_premiera_liga</item>
+        <item>@drawable/ic_australian_a_league</item>
+        <item>@drawable/ic_scotish_premier_league</item>
+        <item>@drawable/ic_english_league_1</item>
+    </array>
+
+
+</resources>
